@@ -1,8 +1,16 @@
 Controller\PrinController.class
-View\Principal.class
 App\App.class
+Controller\PrinController$3.class
+Controller\PrinController$2.class
 Model\LeerArchivos.class
 View\Principal$4.class
 View\Principal$2.class
+Controller\PrinController$1.class
+View\Principal$5.class
 View\Principal$1.class
+View\SettingsDialog.class
+View\Principal.class
+View\Principal$6.class
+Controller\PrinController$4.class
+Model\BCP.class
 View\Principal$3.class

@@ -16,7 +16,7 @@ public class App {
     public static void main(String[] args) {
         LeerArchivos Model = new LeerArchivos();
         Principal View = new Principal();
-        PrinController Controller = new PrinController(View);
+        PrinController Controller = new PrinController(View, Model);
 
         Controller.mostrarVista();
     }
